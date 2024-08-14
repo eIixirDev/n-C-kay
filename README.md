@@ -1,4 +1,4 @@
-$K-p$ index processing을 고민하고 있어요.
+$K_p$ index processing을 고민하고 있어요.
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-C-kay&count_bg=%23FF0010&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
 
