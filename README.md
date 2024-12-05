@@ -1,6 +1,6 @@
 Student from South Korea.
 
-Interested in Machine Learning.
+Interested in ...
 
 I am analyzing $\pi$ string now.
 
@@ -10,7 +10,7 @@ I am analyzing $\pi$ string now.
 - Grasping with RWKV Paves Visual CoT
 
 ### Activities
-1. Regeneron ISEF 24'
+- Regeneron ISEF 24'
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eIixirDev)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
