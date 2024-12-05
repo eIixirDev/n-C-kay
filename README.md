@@ -1,7 +1,5 @@
 Student from South Korea.
 
-I am working on structural response analysis with deep learning.
-
 ## Researches
 1. Understanding Asteroid Inversion with KAN [24']
 2. Discrete Dynamical System with MCTS [24']
