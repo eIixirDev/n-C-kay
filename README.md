@@ -12,6 +12,8 @@ I am analyzing $\pi$ string now.
 ### High School Researches
 - Understanding Asteroid Inversion with KAN
 - Modeling Bifurication of Discrete Dynamical System with MCTS
+- Elo Rating
+  
 - Grasping with RWKV Paves Visual CoT
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eIixirDev)
