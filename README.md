@@ -6,7 +6,8 @@ I am analyzing $\pi$ string now.
 
 ### Activities
 - Regeneron ISEF 24'
-- RWKV Project: Grasping with RWKV Paves Visual CoT
+- RWKV Project
+- KAIST Pre-SRP
 
 ### High School Researches
 - Understanding Asteroid Inversion with KAN
