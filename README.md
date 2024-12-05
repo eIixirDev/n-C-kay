@@ -1,9 +1,10 @@
 Student from South Korea.
 
-Interested in Machine Learning
+Interested in Machine Learning.
 
+I am analyzing $\pi$ string now.
 
-### Projects
+### Researches
 1. Understanding Asteroid Inversion with KAN
 2. Modeling Bifurication of Discrete Dynamical System with MCTS
 3. Grasping with RWKV Paves Visual CoT
