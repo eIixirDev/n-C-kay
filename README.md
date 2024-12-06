@@ -9,8 +9,8 @@
 Student interested in CS from South Korea.
   
 ### Repositories
-- Understanding Asteroid Inversion with KAN
-- Grasping with RWKV Paves Visual CoT
+- **Understanding Asteroid Inversion with KAN**
+- **Grasping with RWKV Paves Visual CoT**
   
 - Bifurication Drawer
 - NNUE-Based Rating System
