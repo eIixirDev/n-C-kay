@@ -14,4 +14,5 @@ Student interested in CS from South Korea.
   
 - Bifurication Drawer
 - NNUE-Based Rating System
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
