@@ -14,11 +14,10 @@ Student interested in CS from South Korea.
 ### Affiliation
 - Stockfish
   - Modified NNUE for Rating-based Learning
-- RWKV Project
-  - Grasping with RWKV Paves Visual CoT
   
 ### High School Projects
 - Understanding Asteroid Inversion with KAN
+- Grasping with RWKV Paves Visual CoT
 - Bifurication Drawer
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
