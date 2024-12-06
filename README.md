@@ -20,10 +20,9 @@ for Electrical Spectroscopy
 - RWKV Project
   - Grasping with RWKV Paves Visual CoT
   
-### High School Researches
+### High School Researches and Projects
 - Understanding Asteroid Inversion with KAN
 - Modeling Bifurication of Discrete Dynamical System with MCTS
-- Rapid parameter matching of Conductometer
+- Error correction software for Conductometer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eIixirDev)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
