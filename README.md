@@ -10,9 +10,6 @@ Student interested in CS from South Korea.
 
 ### Activities
 - Regeneron ISEF 24'
-- KAIST Pre-SRP
-  - Automatic Impedance-Matching Resistor Selection Circuit 
-for Electrical Spectroscopy
 
 ### Affiliation
 - Stockfish
