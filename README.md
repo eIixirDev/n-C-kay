@@ -20,6 +20,5 @@ Student interested in CS from South Korea.
 ### High School Projects
 - Understanding Asteroid Inversion with KAN
 - Modeling Bifurication of Discrete Dynamical System with MCTS
-- Error correction software for Conductometer
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
