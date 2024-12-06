@@ -17,7 +17,7 @@ Student interested in CS from South Korea.
 - RWKV Project
   - Grasping with RWKV Paves Visual CoT
   
-### High School Researches and Projects
+### High School Projects
 - Understanding Asteroid Inversion with KAN
 - Modeling Bifurication of Discrete Dynamical System with MCTS
 - Error correction software for Conductometer
