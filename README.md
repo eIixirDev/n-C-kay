@@ -6,14 +6,17 @@ I am analyzing $\pi$ string now.
 
 ### Activities
 - Regeneron ISEF 24'
-- RWKV Project
 - KAIST Pre-SRP
+
+### Affiliation
+- RWKV Project
+- Stockfish
 
 ### High School Researches
 - Understanding Asteroid Inversion with KAN
 - Modeling Bifurication of Discrete Dynamical System with MCTS
-- Elo Rating
-  
+
+- Modified NNUE for Rating-based Learning
 - Grasping with RWKV Paves Visual CoT
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eIixirDev)
