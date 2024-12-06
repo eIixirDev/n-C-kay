@@ -7,12 +7,5 @@
 
 
 Student interested in CS from South Korea.
-  
-### Repositories
-- **Understanding Asteroid Inversion with KAN**
-- **Grasping with RWKV Paves Visual CoT**
-  
-- Bifurication Drawer
-- NNUE-Based Rating System
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
