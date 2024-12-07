@@ -10,7 +10,6 @@ Student interested in CS from South Korea.
 
 ### Repositories
   
-- Bifurication Drawer
 - NNUE-Based Rating System
 - $\pi$ string analysis
 
