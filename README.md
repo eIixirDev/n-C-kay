@@ -8,4 +8,10 @@
 
 Student interested in CS from South Korea.
 
+### Repositories
+  
+- Bifurication Drawer
+- NNUE-Based Rating System
+- $\pi$ string analysis
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
