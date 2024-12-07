@@ -6,6 +6,6 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 
-Student interested in CS from South Korea.
+코린이
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
