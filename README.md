@@ -5,6 +5,8 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
+Interested in DL
+
 ### Dev
 - Visualization Tool for n-dimensional discrete dynamical systems and IFSs
 - NNUE-TrueSkill Rating Converter
