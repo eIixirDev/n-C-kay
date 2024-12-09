@@ -9,7 +9,7 @@
 
 Interested in DL
 
-Stockfish Developer
+LcFiSh Dev
 
 ### Researches
 - Understanding Asteroid Inversion with KAN
