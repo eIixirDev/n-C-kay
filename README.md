@@ -14,6 +14,6 @@ Stockfish Developer
 ### Researches
 - Understanding Asteroid Inversion with KAN
 - Grasping with RWKV Paves Visual CoT
-- Efficient Visualization of n-dimensional IFSs
+- Developing PRNG from IFSs
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
