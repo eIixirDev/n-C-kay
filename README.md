@@ -9,11 +9,10 @@
 
 Interested in DL
 
-LcFiSh Dev
-
-### Researches
+### Researches and Projects
 - Understanding Asteroid Inversion with KAN
 - Grasping with RWKV Paves Visual CoT
 - Developing PRNG from IFSs
+- LcFiSh Development
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
