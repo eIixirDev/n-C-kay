@@ -7,12 +7,7 @@
 ![MetaSploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Interested in DL
+Interested in Dynamical Systems
 
-### Researches and Projects
-- Understanding Asteroid Inversion with KAN
-- Grasping with RWKV Paves Visual CoT
-- Developing PRNG from IFSs
-- LcFiSh Development
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
