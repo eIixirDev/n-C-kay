@@ -7,7 +7,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
 
 ### Projects
-- VisualRWKV-CoS : Linear slow-thinking model for experiments about inference scaling law.
-- PWN : KAN-based quantitative analyzer.
+- VisualRWKV-CoS : Linear Slow-Thinking Model for Experiments about Inference Scaling Law.
+  - HAL : 
+- Asteroids
+- TimeKAN : Data-Driven Equation Discovery with KAN.
+  - ArXiv : 
+- PWN : ML-based quant bot.
 
 Other repositories are for education.
