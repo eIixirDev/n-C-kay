@@ -8,6 +8,6 @@
 
 ### Projects
 - VisualRWKV-CoS : Linear slow-thinking model for experiments about inference scaling law.
-- PWN : TKAN-based quantitative analyzer.
+- PWN : KAN-based quantitative analyzer.
 
 Other repositories are for education.
