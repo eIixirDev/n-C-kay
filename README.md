@@ -6,4 +6,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
 
-ECC, ECDH, ECDSA.
+### Projects
+- VisualRWKV-CoS : Linear slow-thinking model for experiments about inference scaling law.
+- PWN : TKAN-based quantitative analyzer.
+
+Other repositories are for education.
