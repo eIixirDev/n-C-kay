@@ -12,6 +12,6 @@
 - Asteroids
 - TimeKAN : Data-Driven Equation Discovery with KAN.
   - ArXiv : 
-- PWN : ML-based quant bot.
+- PWN : Quant bot. 
 
 Other repositories are for education.
