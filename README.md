@@ -10,7 +10,7 @@
 - VisualRWKV-CoS : Linear Slow-Thinking Model for Experiments about Inference Scaling Law.
   - HAL : 
 - Asteroids
-- TimeKAN : Data-Driven Equation Discovery with KAN.
+- SRKAN : Data-Driven Equation Discovery with KAN.
   - ArXiv : 
 - PWN : Quant bot. 
 
